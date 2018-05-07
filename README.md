@@ -10,11 +10,12 @@ If you like the project, buy me a beer :) info@arananet.net
 # Parts required
 
 * This PCB :)
-* DIN 6 connector for PCB.
+* There is two ways to connect to the C64, one is solder a DIN 6 connector for PCB and use a male 2 male cable or solder 5 cables on the other connector available on the pcb and use only a male connector on the top. 
 * Level shifter board for Arduino (https://www.ebay.com/sch/i2c+logic+converter+module)
 * Female 2x20 2.54 connector (to plug this pcb on top of the Raspberry Pi 3)
 * 330 ohm resistor + 0805 led smd.
 * 5x switch-omron (B3F-31XX)
+* 3x separators for Raspberry Pi (it not required but recommended since the gpio connector already keep the pcb from bending).
 
 * A Raspberry Pi 3 :)
 
