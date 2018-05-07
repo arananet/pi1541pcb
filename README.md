@@ -19,6 +19,8 @@ If you like the project, buy me a beer :) info@arananet.net
 
 * A Raspberry Pi 3 :)
 
+* Plug the board on top of the RPI3. Then follow the instruction that Steve comment on his article.
+
 # Images of the PCB
 
 <img src='https://github.com/arananet/pi1541pcb/blob/master/img/1.png'/>
