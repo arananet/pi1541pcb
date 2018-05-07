@@ -20,8 +20,8 @@ If you like the project, buy me a beer :) info@arananet.net
 
 # Images of the PCB
 
-<img src=''/>
-<img src=''/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/1.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/2.png'/>
 
 # Updates
 
