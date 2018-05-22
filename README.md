@@ -13,7 +13,7 @@ If you like the project, buy me a beer :) info@arananet.net
 * There is two ways to connect to the C64, one is solder a DIN 6 connector for PCB and use a male 2 male cable or solder 5 cables on the other connector available on the pcb and use only a male connector on the top. 
 * Level shifter board for Arduino (https://www.ebay.com/sch/i2c+logic+converter+module)
 * Female 2x20 2.54 connector (to plug this pcb on top of the Raspberry Pi 3)
-* 330 ohm resistor + 0805 led smd. (not required)
+* 2 x 330 ohm resistor + 0805 led smd. (not required) (power and activity led)
 * 5x switch-omron (B3F-31XX)
 * 3x separators for Raspberry Pi (it not required but recommended since the gpio connector already keep the pcb from bending). 
 
@@ -23,13 +23,13 @@ If you like the project, buy me a beer :) info@arananet.net
 
 # Images of the PCB
 
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/top.png'/>
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/top1.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom1.png'/>
 
 # Updates
 
 07/05/2018 - Initial release.
 
-22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas.
+22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas. Also added activity led to show "floppy" reading.
 
 
