@@ -29,6 +29,7 @@ If you like the project, buy me a beer :) info@arananet.net
 # Updates
 
 07/05/2018 - Initial release.
+
 22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas.
 
 
