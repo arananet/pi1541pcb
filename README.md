@@ -23,11 +23,12 @@ If you like the project, buy me a beer :) info@arananet.net
 
 # Images of the PCB
 
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/1.png'/>
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/2.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/top.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom.png'/>
 
 # Updates
 
 07/05/2018 - Initial release.
+22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas.
 
 
