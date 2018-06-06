@@ -21,15 +21,19 @@ If you like the project, buy me a beer :) info@arananet.net
 
 * Plug the board on top of the RPI3. Then follow the instruction that Steve comment on his article.
 
-# Images of the PCB
-
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/top1.png'/>
-<img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom1.png'/>
-
 # Updates
 
 07/05/2018 - Initial release.
 
 22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas. Also added activity led to show "floppy" reading.
+
+06/06/2018 - Added support for OLED screen (128x64) and buzzer.
+
+# Images of the PCB
+
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/top.png'/>
+<img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom.png'/>
+
+
 
 
