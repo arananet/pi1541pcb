@@ -15,6 +15,8 @@ If you like the project, buy me a beer :) info@arananet.net
 * Female 2x20 2.54 connector (to plug this pcb on top of the Raspberry Pi 3)
 * 2 x 330 ohm resistor + 0805 led smd. (not required) (power and activity led)
 * 5x switch-omron (B3F-31XX)
+* 128x64 Oled screen (not required).
+* 5v Passive buzzer (not required).
 * 3x separators for Raspberry Pi (it not required but recommended since the gpio connector already keep the pcb from bending). 
 
 * A Raspberry Pi 3 :)
