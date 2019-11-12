@@ -25,11 +25,17 @@ If you like the project, buy me a beer :) info@arananet.net
 
 # Updates
 
-07/05/2018 - Initial release.
+12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
+
+06/06/2018 - Added support for OLED screen (128x64) and buzzer.
 
 22/05/2018 - Fixed an small issue with GND on buttons. Detected by jgilcas. Also added activity led to show "floppy" reading.
 
-06/06/2018 - Added support for OLED screen (128x64) and buzzer.
+07/05/2018 - Initial release.
+
+
+
+
 
 # Images of the PCB
 
