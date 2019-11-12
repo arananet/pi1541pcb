@@ -33,15 +33,22 @@ If you like the project, buy me a beer :) info@arananet.net
 
 07/05/2018 - Initial release.
 
-
-
-
-
 # Images of the PCB
 
 <img src='https://github.com/arananet/pi1541pcb/blob/master/img/top.png'/>
 <img src='https://github.com/arananet/pi1541pcb/blob/master/img/bottom.png'/>
 
+# License
 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
